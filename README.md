@@ -33,4 +33,4 @@ GitHubでは主に自身の学習成果やポートフォリオをアップし�
 ---
 
 ### 📫 お問い合わせ
-- **GitHub**: [https://github.com/username](https://github.com/shige-56)
+- **GitHub**: [https://github.com/shige-56](https://github.com/shige-56)
